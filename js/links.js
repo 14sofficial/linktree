@@ -11,7 +11,7 @@ export const links = [
     },
     {
       name: "YouTube",
-      link: "https://www.youtube.com/@14s.official",
+      link: "https://www.youtube.com/@oneforshared",
       image: "./assets/yt.png",
     },
   ];
