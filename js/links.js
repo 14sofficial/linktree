@@ -5,6 +5,11 @@ export const links = [
       image: "./assets/ig.png",
     },
     {
+      name: "Tiktok",
+      link: "https://www.tiktok.com/@14s.official",
+      image: "./assets/tt.png",
+    },
+    {
       name: "Spotify",
       link: "https://open.spotify.com/intl-id/artist/5Xfqlk3Fu7jhLnlc7Y5zkZ?si=2gMDrYcpQvaKXdsoEIqjcA",
       image: "./assets/spotify.png",
