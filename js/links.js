@@ -11,7 +11,7 @@ export const links = [
     },
     {
       name: "Spotify",
-      link: "https://open.spotify.com/intl-id/artist/5Xfqlk3Fu7jhLnlc7Y5zkZ?si=2gMDrYcpQvaKXdsoEIqjcA",
+      link: "https://stopify.co/KW3AXX",
       image: "./assets/spotify.png",
     },
     {
